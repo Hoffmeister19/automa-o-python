@@ -36,7 +36,7 @@ bash
 
 ---
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 Leitura automática de dados de produtos em .csv
 
 Preenchimento automático de campos com pyautogui
@@ -47,14 +47,16 @@ Separação de lógica em arquivos para melhor organização do código
 
 ---
 
-👨‍💻 Autor
-* Arthur Hoffmeister
- Aspirante a engenheiro de cibersegurança e desenvolvedor em automações práticas com Python.
+## 👨‍💻 Autor
+
+Arthur Hoffmeister
+
+Aspirante a engenheiro de cibersegurança e desenvolvedor em automações práticas com Python.
 
 ---
 
-📍 Contato
+## 📍 Contato
 📧 hoffmeisterarthur19@gmail.com
 🔗 GitHub - @Hoffmeister19
 
-⭐ Se você achou útil, deixe uma estrela no repositório!
+## ⭐ Se você achou útil, deixe uma estrela no repositório!
