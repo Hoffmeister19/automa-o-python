@@ -28,3 +28,30 @@ Este projeto tem como objetivo **automatizar o cadastro de dados em uma aplicaç
 
 ```bash
 pip install pyautogui pandas
+
+Verifique se o arquivo produtos.csv está no mesmo diretório do script.
+
+Execute o script principal:
+
+bash
+Copiar
+Editar
+python codigo.py
+⚠️ Importante: Durante a automação, o script vai controlar seu teclado e mouse. Certifique-se de que o sistema onde será feito o cadastro esteja aberto e visível na tela.
+
+📌 Funcionalidades
+Leitura automática de dados de produtos em .csv
+
+Preenchimento automático de campos com pyautogui
+
+Controle de tempo entre ações para evitar falhas
+
+Separação de lógica em arquivos para melhor organização do código
+
+👨‍💻 Autor
+Arthur Hoffmeister
+Aspirante a engenheiro de cibersegurança e desenvolvedor em automações práticas com Python.
+📧 hoffmeisterarthur19@gmail.com
+🔗 GitHub - @Hoffmeister19
+
+⭐ Se você achou útil, deixe uma estrela no repositório!
