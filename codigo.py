@@ -14,7 +14,7 @@ pyautogui.PAUSE = 0.5
 # Passo 1: Entrar no sistema da empresa - https://dlp.hashtagtreinamentos.com/python/intensivao/login
 # Abrir o chrome
 pyautogui.press("win")
-pyautogui.write("Opera")
+pyautogui.write("Opera") # mude o nome para o seu navegador
 pyautogui.press("enter")
 
 # Digitar o site 
