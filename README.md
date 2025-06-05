@@ -58,5 +58,6 @@ Aspirante a engenheiro de cibersegurança e desenvolvedor em automações práti
 ## 📍 Contato
 📧 hoffmeisterarthur19@gmail.com
 🔗 GitHub - @Hoffmeister19
+🍳 Linkedin - https://www.linkedin.com/in/arthur-branco-2391452a7/
 
 ## ⭐ Se você achou útil, deixe uma estrela no repositório!
